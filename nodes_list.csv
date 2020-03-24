@@ -270,6 +270,7 @@
 "Thread","T:DSCore","","T:DSCore.Thread","Functions for manipulating evaluation threads."
 "Thread.Pause","M:DSCore","System.Object,System.Int32","M:DSCore.Thread.Pause(System.Object,System.Int32)","Pauses the current evaluation thread for a given amount of time."
 "Excel.WriteToFile","DSOffice",,"DSOffice.Excel.WriteToFile",
+"Excel.ReadToFile","DSOffice",,"DSOffice.Excel.ReadToFile",
 "ProtoGeometryConfigurationManager.Save","M:Autodesk","","M:Autodesk.DesignScript.Geometry.ProtoGeometryConfigurationManager.Save",""
 "ProtoGeometryConfigurationManager.Settings","P:Autodesk","","P:Autodesk.DesignScript.Geometry.ProtoGeometryConfigurationManager.Settings",""
 "ProtoGeometryConfiguration.GeometryFactoryFileName","P:Autodesk","","P:Autodesk.DesignScript.Geometry.ProtoGeometryConfiguration.GeometryFactoryFileName",""
