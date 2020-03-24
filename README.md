@@ -17,6 +17,9 @@ This quarantine project is a concept for an OCR nodes detection tool for dynamo 
 
 
 ## How to use it
+Click over the DynamoOCR.ipynb file in github and open it in colab
+
+<img src="OpenCollab.png" alt="drawing" width="350"/>
 
 Upload an image with the nodes you want to identify
 
